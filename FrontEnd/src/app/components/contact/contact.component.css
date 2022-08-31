@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contact{
+    margin-right: 1em;
+}
+#logoAp{
+    width: 150px;
+}
+img{
+    width: 40px;
+    padding: 2px;
+    margin-right: 1px;
+}
+div{
+    background-color: #090909;
+    padding: 2px;
+}
+
